@@ -1,24 +1,21 @@
 class Solution {
     public int numberOfBeams(String[] bank) {
+        int prev = 0;
         int count = 0;
-        int intCount = 0;
-        int bankCount[] = new int[bank.length];
-        int a = 0;
-        for (int i = 0; i < bank.length; i++) {
-            for (int j = 0; j < bank[i].length(); j++) {
-                if (bank[i].charAt(j) == '1') {
-                    intCount++;
+
+        for (String row : bank) {
+            int devices = 0;
+
+            for (int i = 0; i < row.length(); i++) {
+                if (row.charAt(i) == '1') {
+                    devices++;
                 }
             }
-            if (intCount != 0) {
-                bankCount[a++] = intCount;
+
+            if (devices > 0) {
+                count += prev * devices;
+                prev = devices;
             }
-            intCount = 0;
-
-        }
-
-        for (int i = 0; i < a - 1; i++) {
-            count += bankCount[i] * bankCount[i + 1];
         }
 
         return count;
