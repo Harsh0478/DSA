@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [1512-number-of-good-pairs](https://github.com/Harsh0478/DSA/tree/master/1512-number-of-good-pairs) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Harsh0478/DSA/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Harsh0478/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Harsh0478/DSA/tree/master/1863-sum-of-all-subset-xor-totals) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1512-number-of-good-pairs](https://github.com/Harsh0478/DSA/tree/master/1512-number-of-good-pairs) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Harsh0478/DSA/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Harsh0478/DSA/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Harsh0478/DSA/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [1512-number-of-good-pairs](https://github.com/Harsh0478/DSA/tree/master/1512-number-of-good-pairs) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Harsh0478/DSA/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Harsh0478/DSA/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 ## Backtracking
@@ -87,4 +90,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Harsh0478/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
+## Counting
+|  |
+| ------- |
+| [1512-number-of-good-pairs](https://github.com/Harsh0478/DSA/tree/master/1512-number-of-good-pairs) |
 <!---LeetCode Topics End-->
