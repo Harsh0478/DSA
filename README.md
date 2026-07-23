@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Harsh0478/DSA/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Harsh0478/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Harsh0478/DSA/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Harsh0478/DSA/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Harsh0478/DSA/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -41,10 +42,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Harsh0478/DSA/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Harsh0478/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Prefix Sum
 |  |
 | ------- |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Harsh0478/DSA/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Harsh0478/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Matrix
 |  |
 | ------- |
@@ -52,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Harsh0478/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2785-sort-vowels-in-a-string](https://github.com/Harsh0478/DSA/tree/master/2785-sort-vowels-in-a-string) |
 ## Hash Table
 |  |
@@ -75,4 +79,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Harsh0478/DSA/tree/master/1863-sum-of-all-subset-xor-totals) |
+## Binary Search
+|  |
+| ------- |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Harsh0478/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
+## Sliding Window
+|  |
+| ------- |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Harsh0478/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 <!---LeetCode Topics End-->
