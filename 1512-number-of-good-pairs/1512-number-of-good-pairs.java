@@ -8,9 +8,7 @@ class Solution {
         }
 
         for (int freq : map.values()) {
-            if (freq >= 2) {
-                count += (freq * (freq - 1)) / 2;
-            }
+            count += (freq * (freq - 1)) / 2;
         }
 
         return count;
