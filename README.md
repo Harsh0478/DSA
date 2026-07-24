@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0633-sum-of-square-numbers](https://github.com/Harsh0478/DSA/tree/master/0633-sum-of-square-numbers) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Harsh0478/DSA/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Simulation
 |  |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0633-sum-of-square-numbers](https://github.com/Harsh0478/DSA/tree/master/0633-sum-of-square-numbers) |
 | [1512-number-of-good-pairs](https://github.com/Harsh0478/DSA/tree/master/1512-number-of-good-pairs) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Harsh0478/DSA/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Harsh0478/DSA/tree/master/2125-number-of-laser-beams-in-a-bank) |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0633-sum-of-square-numbers](https://github.com/Harsh0478/DSA/tree/master/0633-sum-of-square-numbers) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Harsh0478/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Sliding Window
 |  |
