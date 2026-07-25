@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Harsh0478/DSA/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Harsh0478/DSA/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Harsh0478/DSA/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
+| [3536-maximum-product-of-two-digits](https://github.com/Harsh0478/DSA/tree/master/3536-maximum-product-of-two-digits) |
 | [3895-count-digit-appearances](https://github.com/Harsh0478/DSA/tree/master/3895-count-digit-appearances) |
 ## String
 |  |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Harsh0478/DSA/tree/master/0049-group-anagrams) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Harsh0478/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2785-sort-vowels-in-a-string](https://github.com/Harsh0478/DSA/tree/master/2785-sort-vowels-in-a-string) |
+| [3536-maximum-product-of-two-digits](https://github.com/Harsh0478/DSA/tree/master/3536-maximum-product-of-two-digits) |
 ## Hash Table
 |  |
 | ------- |
