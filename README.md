@@ -46,12 +46,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Harsh0478/DSA/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Harsh0478/DSA/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Harsh0478/DSA/tree/master/2125-number-of-laser-beams-in-a-bank) |
+| [2375-construct-smallest-number-from-di-string](https://github.com/Harsh0478/DSA/tree/master/2375-construct-smallest-number-from-di-string) |
 | [2785-sort-vowels-in-a-string](https://github.com/Harsh0478/DSA/tree/master/2785-sort-vowels-in-a-string) |
 ## Greedy
 |  |
 | ------- |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Harsh0478/DSA/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Harsh0478/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2375-construct-smallest-number-from-di-string](https://github.com/Harsh0478/DSA/tree/master/2375-construct-smallest-number-from-di-string) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Harsh0478/DSA/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [2375-construct-smallest-number-from-di-string](https://github.com/Harsh0478/DSA/tree/master/2375-construct-smallest-number-from-di-string) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -114,4 +117,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Harsh0478/DSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2375-construct-smallest-number-from-di-string](https://github.com/Harsh0478/DSA/tree/master/2375-construct-smallest-number-from-di-string) |
 <!---LeetCode Topics End-->
