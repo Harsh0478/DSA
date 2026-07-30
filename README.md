@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Harsh0478/DSA/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Harsh0478/DSA/tree/master/0053-maximum-subarray) |
 | [0496-next-greater-element-i](https://github.com/Harsh0478/DSA/tree/master/0496-next-greater-element-i) |
+| [0643-maximum-average-subarray-i](https://github.com/Harsh0478/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/Harsh0478/DSA/tree/master/0682-baseball-game) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/Harsh0478/DSA/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Harsh0478/DSA/tree/master/1441-build-an-array-with-stack-operations) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Harsh0478/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0643-maximum-average-subarray-i](https://github.com/Harsh0478/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Harsh0478/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Counting
 |  |
