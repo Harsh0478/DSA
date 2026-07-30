@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Harsh0478/DSA/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/Harsh0478/DSA/tree/master/0053-maximum-subarray) |
 | [0496-next-greater-element-i](https://github.com/Harsh0478/DSA/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/Harsh0478/DSA/tree/master/0682-baseball-game) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/Harsh0478/DSA/tree/master/1381-design-a-stack-with-increment-operation) |
@@ -146,4 +147,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1381-design-a-stack-with-increment-operation](https://github.com/Harsh0478/DSA/tree/master/1381-design-a-stack-with-increment-operation) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Harsh0478/DSA/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Harsh0478/DSA/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
