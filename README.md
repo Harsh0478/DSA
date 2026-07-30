@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/Harsh0478/DSA/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Harsh0478/DSA/tree/master/0053-maximum-subarray) |
+| [0209-minimum-size-subarray-sum](https://github.com/Harsh0478/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0496-next-greater-element-i](https://github.com/Harsh0478/DSA/tree/master/0496-next-greater-element-i) |
 | [0643-maximum-average-subarray-i](https://github.com/Harsh0478/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/Harsh0478/DSA/tree/master/0682-baseball-game) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Harsh0478/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Harsh0478/DSA/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Harsh0478/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Matrix
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Harsh0478/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0367-valid-perfect-square](https://github.com/Harsh0478/DSA/tree/master/0367-valid-perfect-square) |
 | [0633-sum-of-square-numbers](https://github.com/Harsh0478/DSA/tree/master/0633-sum-of-square-numbers) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Harsh0478/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -118,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Harsh0478/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/Harsh0478/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/Harsh0478/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Harsh0478/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Counting
