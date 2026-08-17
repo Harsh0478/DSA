@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Harsh0478/DSA/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3701-compute-alternating-sum](https://github.com/Harsh0478/DSA/tree/master/3701-compute-alternating-sum) |
 | [3895-count-digit-appearances](https://github.com/Harsh0478/DSA/tree/master/3895-count-digit-appearances) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/Harsh0478/DSA/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Two Pointers
 |  |
 | ------- |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Harsh0478/DSA/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Harsh0478/DSA/tree/master/0073-set-matrix-zeroes) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Harsh0478/DSA/tree/master/2125-number-of-laser-beams-in-a-bank) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/Harsh0478/DSA/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Sorting
 |  |
 | ------- |
@@ -218,4 +220,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/Harsh0478/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Harsh0478/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Graph Theory
+|  |
+| ------- |
+| [3898-find-the-degree-of-each-vertex](https://github.com/Harsh0478/DSA/tree/master/3898-find-the-degree-of-each-vertex) |
 <!---LeetCode Topics End-->
