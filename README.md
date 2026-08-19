@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/Harsh0478/DSA/tree/master/0682-baseball-game) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/Harsh0478/DSA/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Harsh0478/DSA/tree/master/1441-build-an-array-with-stack-operations) |
+| [1476-subrectangle-queries](https://github.com/Harsh0478/DSA/tree/master/1476-subrectangle-queries) |
 | [1512-number-of-good-pairs](https://github.com/Harsh0478/DSA/tree/master/1512-number-of-good-pairs) |
 | [1672-richest-customer-wealth](https://github.com/Harsh0478/DSA/tree/master/1672-richest-customer-wealth) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Harsh0478/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/Harsh0478/DSA/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Harsh0478/DSA/tree/master/0073-set-matrix-zeroes) |
+| [1476-subrectangle-queries](https://github.com/Harsh0478/DSA/tree/master/1476-subrectangle-queries) |
 | [1672-richest-customer-wealth](https://github.com/Harsh0478/DSA/tree/master/1672-richest-customer-wealth) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Harsh0478/DSA/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2373-largest-local-values-in-a-matrix](https://github.com/Harsh0478/DSA/tree/master/2373-largest-local-values-in-a-matrix) |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1381-design-a-stack-with-increment-operation](https://github.com/Harsh0478/DSA/tree/master/1381-design-a-stack-with-increment-operation) |
+| [1476-subrectangle-queries](https://github.com/Harsh0478/DSA/tree/master/1476-subrectangle-queries) |
 ## Divide and Conquer
 |  |
 | ------- |
