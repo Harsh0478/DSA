@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2545-sort-the-students-by-their-kth-score](https://github.com/Harsh0478/DSA/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Harsh0478/DSA/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Harsh0478/DSA/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
+| [3446-sort-matrix-by-diagonals](https://github.com/Harsh0478/DSA/tree/master/3446-sort-matrix-by-diagonals) |
 | [3701-compute-alternating-sum](https://github.com/Harsh0478/DSA/tree/master/3701-compute-alternating-sum) |
 | [3895-count-digit-appearances](https://github.com/Harsh0478/DSA/tree/master/3895-count-digit-appearances) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Harsh0478/DSA/tree/master/3898-find-the-degree-of-each-vertex) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Harsh0478/DSA/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2373-largest-local-values-in-a-matrix](https://github.com/Harsh0478/DSA/tree/master/2373-largest-local-values-in-a-matrix) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/Harsh0478/DSA/tree/master/2545-sort-the-students-by-their-kth-score) |
+| [3446-sort-matrix-by-diagonals](https://github.com/Harsh0478/DSA/tree/master/3446-sort-matrix-by-diagonals) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Harsh0478/DSA/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Sorting
 |  |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Harsh0478/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/Harsh0478/DSA/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2785-sort-vowels-in-a-string](https://github.com/Harsh0478/DSA/tree/master/2785-sort-vowels-in-a-string) |
+| [3446-sort-matrix-by-diagonals](https://github.com/Harsh0478/DSA/tree/master/3446-sort-matrix-by-diagonals) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Harsh0478/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Harsh0478/DSA/tree/master/3536-maximum-product-of-two-digits) |
 ## Hash Table
