@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Harsh0478/DSA/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Harsh0478/DSA/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Harsh0478/DSA/tree/master/0053-maximum-subarray) |
+| [0059-spiral-matrix-ii](https://github.com/Harsh0478/DSA/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/Harsh0478/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0209-minimum-size-subarray-sum](https://github.com/Harsh0478/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0496-next-greater-element-i](https://github.com/Harsh0478/DSA/tree/master/0496-next-greater-element-i) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/Harsh0478/DSA/tree/master/0059-spiral-matrix-ii) |
 | [0682-baseball-game](https://github.com/Harsh0478/DSA/tree/master/0682-baseball-game) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Harsh0478/DSA/tree/master/1441-build-an-array-with-stack-operations) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Harsh0478/DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Harsh0478/DSA/tree/master/0048-rotate-image) |
+| [0059-spiral-matrix-ii](https://github.com/Harsh0478/DSA/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/Harsh0478/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/Harsh0478/DSA/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [1476-subrectangle-queries](https://github.com/Harsh0478/DSA/tree/master/1476-subrectangle-queries) |
