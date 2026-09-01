@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/Harsh0478/DSA/tree/master/0682-baseball-game) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/Harsh0478/DSA/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [0832-flipping-an-image](https://github.com/Harsh0478/DSA/tree/master/0832-flipping-an-image) |
+| [1329-sort-the-matrix-diagonally](https://github.com/Harsh0478/DSA/tree/master/1329-sort-the-matrix-diagonally) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/Harsh0478/DSA/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Harsh0478/DSA/tree/master/1441-build-an-array-with-stack-operations) |
 | [1476-subrectangle-queries](https://github.com/Harsh0478/DSA/tree/master/1476-subrectangle-queries) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Harsh0478/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/Harsh0478/DSA/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [0832-flipping-an-image](https://github.com/Harsh0478/DSA/tree/master/0832-flipping-an-image) |
+| [1329-sort-the-matrix-diagonally](https://github.com/Harsh0478/DSA/tree/master/1329-sort-the-matrix-diagonally) |
 | [1476-subrectangle-queries](https://github.com/Harsh0478/DSA/tree/master/1476-subrectangle-queries) |
 | [1672-richest-customer-wealth](https://github.com/Harsh0478/DSA/tree/master/1672-richest-customer-wealth) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Harsh0478/DSA/tree/master/2125-number-of-laser-beams-in-a-bank) |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Harsh0478/DSA/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/Harsh0478/DSA/tree/master/0049-group-anagrams) |
 | [0148-sort-list](https://github.com/Harsh0478/DSA/tree/master/0148-sort-list) |
+| [1329-sort-the-matrix-diagonally](https://github.com/Harsh0478/DSA/tree/master/1329-sort-the-matrix-diagonally) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Harsh0478/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/Harsh0478/DSA/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2785-sort-vowels-in-a-string](https://github.com/Harsh0478/DSA/tree/master/2785-sort-vowels-in-a-string) |
