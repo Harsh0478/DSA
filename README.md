@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2375-construct-smallest-number-from-di-string](https://github.com/Harsh0478/DSA/tree/master/2375-construct-smallest-number-from-di-string) |
 | [2785-sort-vowels-in-a-string](https://github.com/Harsh0478/DSA/tree/master/2785-sort-vowels-in-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Harsh0478/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/Harsh0478/DSA/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Greedy
 |  |
 | ------- |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/Harsh0478/DSA/tree/master/1512-number-of-good-pairs) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Harsh0478/DSA/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Harsh0478/DSA/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/Harsh0478/DSA/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Backtracking
 |  |
 | ------- |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1512-number-of-good-pairs](https://github.com/Harsh0478/DSA/tree/master/1512-number-of-good-pairs) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/Harsh0478/DSA/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Linked List
 |  |
 | ------- |
