@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1476-subrectangle-queries](https://github.com/Harsh0478/DSA/tree/master/1476-subrectangle-queries) |
 | [1512-number-of-good-pairs](https://github.com/Harsh0478/DSA/tree/master/1512-number-of-good-pairs) |
 | [1672-richest-customer-wealth](https://github.com/Harsh0478/DSA/tree/master/1672-richest-customer-wealth) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/Harsh0478/DSA/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Harsh0478/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Harsh0478/DSA/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Harsh0478/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/Harsh0478/DSA/tree/master/0771-jewels-and-stones) |
 | [1021-remove-outermost-parentheses](https://github.com/Harsh0478/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Harsh0478/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/Harsh0478/DSA/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Harsh0478/DSA/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Harsh0478/DSA/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2000-reverse-prefix-of-word](https://github.com/Harsh0478/DSA/tree/master/2000-reverse-prefix-of-word) |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Harsh0478/DSA/tree/master/0567-permutation-in-string) |
 | [0771-jewels-and-stones](https://github.com/Harsh0478/DSA/tree/master/0771-jewels-and-stones) |
 | [1512-number-of-good-pairs](https://github.com/Harsh0478/DSA/tree/master/1512-number-of-good-pairs) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/Harsh0478/DSA/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Harsh0478/DSA/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Harsh0478/DSA/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Harsh0478/DSA/tree/master/3541-find-most-frequent-vowel-and-consonant) |
@@ -176,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/Harsh0478/DSA/tree/master/0136-single-number) |
 | [0832-flipping-an-image](https://github.com/Harsh0478/DSA/tree/master/0832-flipping-an-image) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/Harsh0478/DSA/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Harsh0478/DSA/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/Harsh0478/DSA/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Harsh0478/DSA/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -208,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1512-number-of-good-pairs](https://github.com/Harsh0478/DSA/tree/master/1512-number-of-good-pairs) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/Harsh0478/DSA/tree/master/1684-count-the-number-of-consistent-strings) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Harsh0478/DSA/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Linked List
 |  |
