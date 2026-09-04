@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Harsh0478/DSA/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3446-sort-matrix-by-diagonals](https://github.com/Harsh0478/DSA/tree/master/3446-sort-matrix-by-diagonals) |
 | [3701-compute-alternating-sum](https://github.com/Harsh0478/DSA/tree/master/3701-compute-alternating-sum) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Harsh0478/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 | [3895-count-digit-appearances](https://github.com/Harsh0478/DSA/tree/master/3895-count-digit-appearances) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Harsh0478/DSA/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Two Pointers
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Harsh0478/DSA/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Harsh0478/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Harsh0478/DSA/tree/master/3536-maximum-product-of-two-digits) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Harsh0478/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 | [3895-count-digit-appearances](https://github.com/Harsh0478/DSA/tree/master/3895-count-digit-appearances) |
 ## String
 |  |
