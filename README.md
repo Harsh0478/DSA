@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Harsh0478/DSA/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/Harsh0478/DSA/tree/master/2375-construct-smallest-number-from-di-string) |
 | [2785-sort-vowels-in-a-string](https://github.com/Harsh0478/DSA/tree/master/2785-sort-vowels-in-a-string) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Harsh0478/DSA/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3280-convert-date-to-binary](https://github.com/Harsh0478/DSA/tree/master/3280-convert-date-to-binary) |
 | [3498-reverse-degree-of-a-string](https://github.com/Harsh0478/DSA/tree/master/3498-reverse-degree-of-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Harsh0478/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Harsh0478/DSA/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/Harsh0478/DSA/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/Harsh0478/DSA/tree/master/2375-construct-smallest-number-from-di-string) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Harsh0478/DSA/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Harsh0478/DSA/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/Harsh0478/DSA/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Harsh0478/DSA/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Harsh0478/DSA/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Combinatorics
 |  |
 | ------- |
