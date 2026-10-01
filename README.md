@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Harsh0478/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/Harsh0478/DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Harsh0478/DSA/tree/master/0013-roman-to-integer) |
+| [0020-valid-parentheses](https://github.com/Harsh0478/DSA/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Harsh0478/DSA/tree/master/0049-group-anagrams) |
 | [0567-permutation-in-string](https://github.com/Harsh0478/DSA/tree/master/0567-permutation-in-string) |
 | [0771-jewels-and-stones](https://github.com/Harsh0478/DSA/tree/master/0771-jewels-and-stones) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Harsh0478/DSA/tree/master/0020-valid-parentheses) |
 | [0225-implement-stack-using-queues](https://github.com/Harsh0478/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0496-next-greater-element-i](https://github.com/Harsh0478/DSA/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/Harsh0478/DSA/tree/master/0682-baseball-game) |
@@ -297,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Harsh0478/DSA/tree/master/0020-valid-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/Harsh0478/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Harsh0478/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Graph Theory
