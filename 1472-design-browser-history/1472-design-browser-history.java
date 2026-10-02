@@ -8,7 +8,7 @@ class BrowserHistory {
     }
 
     public void visit(String url) {
-        while (history.size() > current + 1) {
+        while (history.size() - 1 > current) {
             history.remove(history.size() - 1);
         }
 
