@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Harsh0478/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/Harsh0478/DSA/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Harsh0478/DSA/tree/master/1441-build-an-array-with-stack-operations) |
+| [1472-design-browser-history](https://github.com/Harsh0478/DSA/tree/master/1472-design-browser-history) |
 | [1476-subrectangle-queries](https://github.com/Harsh0478/DSA/tree/master/1476-subrectangle-queries) |
 | [1512-number-of-good-pairs](https://github.com/Harsh0478/DSA/tree/master/1512-number-of-good-pairs) |
 | [1672-richest-customer-wealth](https://github.com/Harsh0478/DSA/tree/master/1672-richest-customer-wealth) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/Harsh0478/DSA/tree/master/0025-reverse-nodes-in-k-group) |
 | [0148-sort-list](https://github.com/Harsh0478/DSA/tree/master/0148-sort-list) |
 | [0328-odd-even-linked-list](https://github.com/Harsh0478/DSA/tree/master/0328-odd-even-linked-list) |
+| [1472-design-browser-history](https://github.com/Harsh0478/DSA/tree/master/1472-design-browser-history) |
 | [1669-merge-in-between-linked-lists](https://github.com/Harsh0478/DSA/tree/master/1669-merge-in-between-linked-lists) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Harsh0478/DSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2326-spiral-matrix-iv](https://github.com/Harsh0478/DSA/tree/master/2326-spiral-matrix-iv) |
@@ -263,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/Harsh0478/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/Harsh0478/DSA/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Harsh0478/DSA/tree/master/1441-build-an-array-with-stack-operations) |
+| [1472-design-browser-history](https://github.com/Harsh0478/DSA/tree/master/1472-design-browser-history) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Harsh0478/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2000-reverse-prefix-of-word](https://github.com/Harsh0478/DSA/tree/master/2000-reverse-prefix-of-word) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Harsh0478/DSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -281,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Harsh0478/DSA/tree/master/0225-implement-stack-using-queues) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/Harsh0478/DSA/tree/master/1381-design-a-stack-with-increment-operation) |
+| [1472-design-browser-history](https://github.com/Harsh0478/DSA/tree/master/1472-design-browser-history) |
 | [1476-subrectangle-queries](https://github.com/Harsh0478/DSA/tree/master/1476-subrectangle-queries) |
 ## Divide and Conquer
 |  |
@@ -318,4 +322,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Harsh0478/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/Harsh0478/DSA/tree/master/1472-design-browser-history) |
+## Data Stream
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/Harsh0478/DSA/tree/master/1472-design-browser-history) |
 <!---LeetCode Topics End-->
